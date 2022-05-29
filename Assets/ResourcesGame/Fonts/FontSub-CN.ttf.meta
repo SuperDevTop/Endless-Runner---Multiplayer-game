@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ddd3ad20d4c07fd4e890d143fda8d586
+timeCreated: 1501574147
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tensentype JiaLiDaHeiF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

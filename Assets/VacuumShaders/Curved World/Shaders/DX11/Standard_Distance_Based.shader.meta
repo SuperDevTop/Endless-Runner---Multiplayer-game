@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3a3da9d03459662468adc77ec5517a66
+labels:
+- DX11
+- Tessellation
+timeCreated: 1436279591
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

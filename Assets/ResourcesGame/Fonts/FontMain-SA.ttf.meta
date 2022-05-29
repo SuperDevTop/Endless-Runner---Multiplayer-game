@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f323a76568ec84e4b8f6d8455f42a2c7
+timeCreated: 1497613343
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DIN Next Arabic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 28655e7cb342d484a834342e809d4dd3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

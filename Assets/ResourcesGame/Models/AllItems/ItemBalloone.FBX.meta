@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 077f680202b330844bdd8b58ca3f0f6f
+timeCreated: 1492091666
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Balloone001
+    100002: Balloone002
+    100004: Balloone003
+    100006: Balloone004
+    100008: Balloone005
+    100010: Balloone006
+    100012: Balloone007
+    100014: Balloone008
+    100016: Balloone009
+    100018: Balloone010
+    100020: Balloone011
+    100022: Balloone012
+    100024: Balloone013
+    100026: //RootNode
+    100028: Balloone
+    100030: Bone001
+    100032: Bone003
+    100034: Bone004
+    100036: Bone006
+    100038: Bone007
+    100040: Bone009
+    100042: Bone010
+    100044: Bone012
+    100046: Bone014
+    100048: Bone015
+    400000: Balloone001
+    400002: Balloone002
+    400004: Balloone003
+    400006: Balloone004
+    400008: Balloone005
+    400010: Balloone006
+    400012: Balloone007
+    400014: Balloone008
+    400016: Balloone009
+    400018: Balloone010
+    400020: Balloone011
+    400022: Balloone012
+    400024: Balloone013
+    400026: //RootNode
+    400028: Balloone
+    400030: Bone001
+    400032: Bone003
+    400034: Bone004
+    400036: Bone006
+    400038: Bone007
+    400040: Bone009
+    400042: Bone010
+    400044: Bone012
+    400046: Bone014
+    400048: Bone015
+    2300000: Balloone001
+    2300002: Balloone002
+    2300004: Balloone003
+    2300006: Balloone004
+    2300008: Balloone005
+    2300010: Balloone006
+    2300012: Balloone007
+    2300014: Balloone008
+    2300016: Balloone009
+    2300018: Balloone010
+    2300020: Balloone011
+    2300022: Balloone012
+    2300024: Balloone013
+    2300026: //RootNode
+    2300028: Balloone
+    3300000: Balloone001
+    3300002: Balloone002
+    3300004: Balloone003
+    3300006: Balloone004
+    3300008: Balloone005
+    3300010: Balloone006
+    3300012: Balloone007
+    3300014: Balloone008
+    3300016: Balloone009
+    3300018: Balloone010
+    3300020: Balloone011
+    3300022: Balloone012
+    3300024: Balloone013
+    3300026: //RootNode
+    3300028: Balloone
+    4300000: Balloone
+    4300002: Balloone001
+    4300004: Balloone002
+    4300006: Balloone003
+    4300008: Balloone004
+    4300010: Balloone005
+    4300012: Balloone006
+    4300014: Balloone007
+    4300016: Balloone008
+    4300018: Balloone009
+    4300020: Balloone010
+    4300022: Balloone011
+    4300024: Balloone012
+    4300026: Balloone013
+    7400000: ItemBalloone-Run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Balloone
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ItemBalloone-Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Balloone001
+        weight: 1
+      - path: Balloone002
+        weight: 1
+      - path: Balloone003
+        weight: 1
+      - path: Balloone004
+        weight: 1
+      - path: Balloone005
+        weight: 1
+      - path: Balloone006
+        weight: 1
+      - path: Balloone007
+        weight: 1
+      - path: Balloone008
+        weight: 1
+      - path: Balloone009
+        weight: 1
+      - path: Balloone010
+        weight: 1
+      - path: Balloone011
+        weight: 1
+      - path: Balloone012
+        weight: 1
+      - path: Balloone013
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
